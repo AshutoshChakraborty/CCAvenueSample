@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CCAvenueSample</string>
+    <string name="base_url">http://dummyurl.com</string>
+</resources>
